@@ -1,8 +1,0 @@
-These are the Sources to gather data
-
-
-https://www.prb.org/wp-content/uploads/2011/04/india-population-2001-2011.pdf        population growth rate
-https://ncert.nic.in/textbook/pdf/legy2a1.pdf                                        Rural and Urban population
-https://censusindia.gov.in/census.website/data/census-tables                            "        "             
-https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_publication/social_statistics/WM16Chapter1.pdf
-https://www.census2011.co.in/states.php
